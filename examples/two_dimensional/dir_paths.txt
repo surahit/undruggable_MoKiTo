@@ -1,0 +1,3 @@
+ out_trajectories='output/trajectories/'
+ out_isokann='output/isokann/'
+ out_mokito='output/mokito/'

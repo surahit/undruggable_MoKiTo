@@ -1,0 +1,7 @@
+inp_dir='input/'
+out_trajectories1='output/trajectories/'
+out_trajectories2='output/trajectories/openmm_files/'
+out_trajectories3='output/trajectories/openmm_files/initial_states/'
+out_trajectories4='output/trajectories/openmm_files/final_states/'
+out_isokann='output/isokann/'
+out_mokito='output/mokito/'

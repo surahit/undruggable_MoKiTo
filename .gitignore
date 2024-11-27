@@ -1,0 +1,12 @@
+examples/33dichlororisobutene/output/trajectories/PWDistances_0.pt
+examples/33dichlororisobutene/output/trajectories/PWDistances_t.pt
+examples/33dichlororisobutene/output/trajectories/openmm_files/trajectory_solute.dcd
+examples/33dichlororisobutene/output/trajectories/openmm_files/trajectory_water.dcd
+examples/VGVAPG/output/trajectories/PWDistances_0.pt
+examples/VGVAPG/output/trajectories/PWDistances_t.pt
+examples/VGVAPG/output/trajectories/openmm_files/trajectory_solute.dcd
+examples/VGVAPG/output/trajectories/openmm_files/trajectory_water.dcd
+examples/villin/output/trajectories/BAT_0.pt
+examples/villin/output/trajectories/BAT_t.pt
+examples/villin/output/trajectories/openmm_files/trajectory_solute.dcd
+examples/villin/output/trajectories/openmm_files/trajectory_water.dcd
