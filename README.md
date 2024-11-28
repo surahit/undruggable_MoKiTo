@@ -1,5 +1,9 @@
-# MoKiTo: Molecular Kinetics via Topology
+### Preamble
+This repository contains Python code and Jupyter Notebooks for reproducing the results presented in the manuscript *Topological analysis reveals multiple pathways in molecular dynamics*.
 
+The same code and processed data are also available on Zenodo: [https://doi.org/10.5281/zenodo.14229803](https://doi.org/10.5281/zenodo.14229803)
+
+# MoKiTo: Molecular Kinetics via Topology
 MoKiTo (Molecular Kinetics via Topology) is a Python-based toolkit designed for analyzing and extracting topological insights from Molecular Dynamics (MD) simulations.   
 It enables researchers to study conformational transitions and kinetic pathways in molecular systems by generating Molecular Kinetics Maps (MKMs).
 
