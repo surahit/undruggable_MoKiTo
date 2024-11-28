@@ -1,7 +1,7 @@
 # MoKiTo: Molecular Kinetics via Topology
 
 MoKiTo (Molecular Kinetics via Topology) is a Python-based toolkit designed for analyzing and extracting topological insights from Molecular Dynamics (MD) simulations.   
-It enables researchers to study conformational transitions and kinetic pathways in molecular systems.
+It enables researchers to study conformational transitions and kinetic pathways in molecular systems by generating Molecular Kinetics Maps (MKMs).
 
 ## Installation
 git clone https://github.com/donatiluca/MoKiTo.git  
@@ -18,7 +18,7 @@ For low-dimensional systems, follow these steps:
 
 1. Use `generate_trajectories.ipynb` to create the initial trajectory and the short trajectories.
 2. Use `isokann.ipynb` to learn the $\chi$-function.
-3. Use `mokito.ipynb` to load the trajectories and the $\chi$-function to generate the graph and the energy landscape.
+3. Use `mokito.ipynb` to load the trajectories and the $\chi$-function to generate the MKM and the energy landscape.
 
 ### Molecular systems
 
@@ -29,4 +29,4 @@ Then follow these steps:
 2. Use `generate_short_trajectories.ipynb` to sample the system's dynamics.
 4. Run `calculate_PWDs.ipynb` to convert the MD trajectories saved as `.dcd` files into `.pt` arrays that contain the pairwise distance matrices.
 5. Use `isokann.ipynb` to learn the $\chi$-function.
-6. Use `mokito.ipynb` to load the pairwise distance matrices and the $\chi$-function to generate the graph and the energy landscape.
+6. Use `mokito.ipynb` to load the pairwise distance matrices and the $\chi$-function to generate the MKM and the energy landscape.
