@@ -10,12 +10,12 @@ pip install -r requirements.txt
 
 ## How to Use MoKiTo
 The workflow depends on whether you're working with toy model systems (typically one- or two-dimensional systems driven by overdamped Langevin dynamics) or all-atom MD simulations.  
-Example workflows are provided in the examples/ directory.
+The directory `examples/` contains sample workflows for both use cases. Modify the scripts as needed for your specific data and analysis.
 
 ### Low-Dimensional Systems
 
 For low-dimensional systems, follow these steps:
 
-1. Generate Trajectories: Use generate_trajectories.ipynb to create the initial trajectory and the short trajectories.
-2. ISOKANN: Use isokann.ipynb to learn the $\chi$-function.
-3. MoKiTO: Use mokito.ipynb to load the trajectories and the $\chi$-function to generate the graph and the energy landscape.
+1. Use `generate_trajectories.ipynb` to create the initial trajectory and the short trajectories.
+2. Use `isokann.ipynb` to learn the $\chi$-function.
+3. Use `mokito.ipynb` to load the trajectories and the $\chi$-function to generate the graph and the energy landscape.
