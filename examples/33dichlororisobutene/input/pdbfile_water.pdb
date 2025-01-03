@@ -1,4 +1,4 @@
-REMARK   1 CREATED WITH OPENMM 8.1.1, 2024-11-15
+REMARK   1 CREATED WITH OPENMM 8.1.1, 2024-12-28
 CRYST1   30.000   30.000   30.000  90.00  90.00  90.00 P 1           1 
 HETATM    1  C1  UNL A   1      -5.496   0.955   0.236  1.00  0.00           C  
 HETATM    2  C2  UNL A   1      -4.024   1.034  -0.078  1.00  0.00           C  
