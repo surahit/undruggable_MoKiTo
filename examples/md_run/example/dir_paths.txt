@@ -1,0 +1,8 @@
+inp_dir='/scratch/htc/fsafarov/2cm2_simulation/md2/input/'
+out_trajectories1='/scratch/htc/fsafarov/2cm2_simulation/md2/output_5/trajectories/'
+out_trajectories2='/scratch/htc/fsafarov/2cm2_simulation/md2/output_5/trajectories/openmm_files/'
+out_trajectories3='/scratch/htc/fsafarov/2cm2_simulation/md2/output_5/trajectories/openmm_files/initial_states/'
+out_trajectories4='/scratch/htc/fsafarov/2cm2_simulation/md2/output_5/trajectories/openmm_files/final_states/'
+out_isokann='/scratch/htc/fsafarov/2cm2_simulation/output/isokann/'
+out_mokito='/scratch/htc/fsafarov/2cm2_simulation/output/mokito/'
+
